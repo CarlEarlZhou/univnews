@@ -3,3 +3,4 @@ print "66666"
 
 print "testBranchChange"
 anostr = "anostr"
+_str = "mergeProblem"
