@@ -1,5 +1,1 @@
-import news
-
-
-if __name__ == '__main__':
-	news.newsfunc()
+print "23333"
