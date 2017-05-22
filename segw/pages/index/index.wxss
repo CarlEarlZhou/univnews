@@ -1,0 +1,63 @@
+/**index.wxss**/
+.view1{
+  height:100%;
+  width:100%;
+  display:flex;
+  flex-direction:column;
+  align-content: center;
+  justify-content: space-between;
+  background-color: lightgray;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.view2
+{
+  height:100%;
+  width:60%;
+  font-size:x-large;
+  overflow:hidden;
+  background-color: white;
+  line-height:216rpx;
+  font-weight:200;
+  font-family: KaiTi;
+}
+.view3
+{
+  height:18%;
+  width:90%;
+  display:flex;
+  flex-direction:row;
+  margin: 0 auto 0;
+  background-color: white;
+  border-radius: 2%;
+}
+.view4
+{
+  height:85%;
+  background-color: white;
+  margin-left: 5%;
+  width:30%;
+  padding-top: 4%;
+}
+.view5{
+  width: 10%;
+  height: 100%;
+  padding-top: 10%;
+  overflow: hidden;
+}
+.gap
+{
+  height:1%;
+  width:100%;
+  background-color: lightgray;
+}
+.right{
+  width: 50%;
+  height: 25%;
+  margin-top: 25%;
+}
+.icon{
+  width:80%;
+  height: 80%;
+  margin: 0 auto;
+}
