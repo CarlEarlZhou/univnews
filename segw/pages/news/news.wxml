@@ -1,0 +1,80 @@
+<view class="detail_view">
+    
+    <view class="view_style" style="{{hideView[0]}}">
+      
+      <view class="text_view">
+
+        <view class="title" bindtap="showContext" id="1">
+            {{title[0]}}
+        </view>
+
+        <image src="{{imgsrc[0]}}" class="img_style" style="{{hideImg[0]}}" bindtap="showContext" id="1"></image>
+
+        <button bindtap="playaudio"class="audioView" id="0">
+          <image src="{{imgSrc[0]}}" class="audioIcon"></image>
+        </button>
+
+        <view class="abstract" bindtap="showContext" id="1">{{text[0]}}</view>
+
+      </view>
+
+    </view>
+
+
+    <view class="view_style" style="{{hideView[1]}}">
+      
+      <view class="text_view">
+        <view class="title" bindtap="showContext" id="2">
+                {{title[1]}}
+        </view>
+        <image src="{{imgsrc[1]}}" style="{{hideImg[1]}}" class="img_style" bindtap="showContext" id="2"></image>
+
+        <button bindtap="playaudio"class="audioView" id="1">
+          <image src="{{imgSrc[1]}}" class="audioIcon"></image>
+        </button>
+
+        <view class="abstract" bindtap="showContext" id="2">{{text[1]}}</view>
+      </view>
+    </view>
+
+
+    <view class="view_style" style="{{hideView[2]}}">
+      
+      <view class="text_view">
+        <view class="title" bindtap="showContext" id="3" >
+                {{title[2]}}
+        </view>
+        <image src="{{imgsrc[2]}}" style="{{hideImg[2]}}" class="img_style" bindtap="showContext" id="3"></image>
+
+        <button bindtap="playaudio"class="audioView" id="2">
+          <image src="{{imgSrc[2]}}" class="audioIcon"></image>
+        </button>
+
+        <view class="abstract" bindtap="showContext" id="3">{{text[2]}}</view>
+      </view>
+    </view>
+
+
+    <view class="view_style" style="{{hideView[3]}}">
+      
+      <view class="text_view">
+        <view class="title" bindtap="showContext" id="4">
+                {{title[3]}}
+        </view>
+        <image src="{{imgsrc[3]}}" style="{{hideImg[3]}}" class="img_style" bindtap="showContext" id="4"></image>
+        <button bindtap="playaudio"class="audioView" id="3">
+          <image src="{{imgSrc[3]}}" class="audioIcon"></image>
+        </button>
+
+        <view class="abstract" bindtap="showContext" id="4">{{text[3]}}</view>
+      </view>
+    </view>
+
+
+    <view class="button_bar">
+      <button class="button_style" bindtap="down">下一页</button>
+      
+      <button class="button_style" bindtap="up">上一页</button>
+    </view>
+
+  </view>

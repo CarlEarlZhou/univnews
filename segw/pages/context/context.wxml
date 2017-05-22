@@ -1,0 +1,29 @@
+<view>
+    <view class="par_view" style="{{hideText[0]}}">{{par[0]}}</view>
+    <view class="par_view" style="{{hideText[1]}}">{{par[1]}}</view>
+    <view class="par_view" style="{{hideText[2]}}">{{par[2]}}</view>
+    <view class="par_view" style="{{hideText[3]}}">{{par[3]}}</view>
+    <view class="par_view" style="{{hideText[4]}}">{{par[4]}}</view>
+    <view class="par_view" style="{{hideText[5]}}">{{par[5]}}</view>
+    <view class="par_view" style="{{hideText[6]}}">{{par[6]}}</view>
+    <view class="par_view" style="{{hideText[7]}}">{{par[7]}}</view>
+    <view class="par_view" style="{{hideText[8]}}">{{par[8]}}</view>
+    <view class="par_view" style="{{hideText[9]}}">{{par[9]}}</view>
+    <view class="par_view" style="{{hideText[10]}}">{{par[10]}}</view>
+    <view class="par_view" style="{{hideText[11]}}">{{par[11]}}</view>
+    <view class="par_view" style="{{hideText[12]}}">{{par[12]}}</view>
+    <view class="par_view" style="{{hideText[13]}}">{{par[13]}}</view>
+    <view class="par_view" style="{{hideText[14]}}">{{par[14]}}</view>
+    <view class="par_view" style="{{hideText[15]}}">{{par[15]}}</view>
+    <view class="par_view" style="{{hideText[16]}}">{{par[16]}}</view>
+    <view class="par_view" style="{{hideText[17]}}">{{par[17]}}</view>
+    <view class="par_view" style="{{hideText[18]}}">{{par[18]}}</view>
+    <view class="par_view" style="{{hideText[19]}}">{{par[19]}}</view>
+    <view class="par_view" style="{{hideText[20]}}">{{par[20]}}</view>
+    <view class="par_view" style="{{hideText[21]}}">{{par[21]}}</view>
+    <view class="par_view" style="{{hideText[22]}}">{{par[22]}}</view>
+    <view class="par_view" style="{{hideText[23]}}">{{par[23]}}</view>
+    <view class="par_view" style="{{hideText[24]}}">{{par[24]}}</view>
+    <view class="par_view" style="{{hideText[25]}}">{{par[25]}}</view>
+    
+</view>
