@@ -87,6 +87,8 @@ class sqlConnect(object):
 		return self._context
 	@context.setter
 	def context(self, value):
+		for temv in value:
+			temv = temv.replace(' ', '')
 		self._context = value
 		self._abstract = sqlConnect.getAbstract(self, self._context)
 
