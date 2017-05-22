@@ -1,0 +1,65 @@
+<view class="view1">
+  
+  <view class="view3" bindtap="jump"  id="tsinghua">
+    <view class="view4">
+      <image src="https://www.vdebug.xyz/img/tsinghua/icon.jpg" class="icon"></image>
+    </view>
+    <view class="view2">清华大学</view>
+    <view class="view5">
+      <image src="https://www.vdebug.xyz/img/right.png" class="right"></image>
+    </view>
+  </view>
+
+  <view class="gap">
+  </view>
+
+  <view class="view3" bindtap="jump" id="pku">
+    <view class="view4">
+      <image src="https://www.vdebug.xyz/img/pku/icon.jpg" class="icon"></image>
+    </view>
+    <view class="view2">北京大学</view>
+    <view class="view5">
+      <image src="https://www.vdebug.xyz/img/right.png" class="right"></image>
+    </view>
+  </view>
+
+  <view class="gap">
+  </view>
+
+  <view class="view3" bindtap="jump"  id="buaa">
+    <view class="view4">
+      <image src="https://www.vdebug.xyz/img/buaa/icon.jpg" class="icon"></image>
+    </view>
+    <view class="view2">北航</view>
+    <view class="view5">
+      <image src="https://www.vdebug.xyz/img/right.png" class="right"></image>
+    </view>
+  </view>
+
+  <view class="gap">
+  </view>
+
+  <view class="view3" bindtap="jump"  id="sjtu">
+    <view class="view4">
+      <image src="https://www.vdebug.xyz/img/sjtu/icon.jpg" class="icon"></image>
+    </view>
+    <view class="view2">上海交大</view>
+    <view class="view5">
+      <image src="https://www.vdebug.xyz/img/right.png" class="right"></image>
+    </view>
+  </view>
+
+  <view class="gap">
+  </view>
+
+  <view class="view3" bindtap="jump"  id="zju">
+    <view class="view4">
+      <image src="https://www.vdebug.xyz/img/zju/icon.jpg" class="icon"></image>
+    </view>
+    <view class="view2">浙江大学</view>
+    <view class="view5">
+      <image src="https://www.vdebug.xyz/img/right.png" class="right"></image>
+    </view>
+  </view>
+
+</view>
